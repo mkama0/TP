@@ -58,3 +58,15 @@ topologies/
 ### Contenu
 - Configurations `.config` des **PCs, serveurs, routeurs, switches**.
 - Fichier topologie **Packet Tracer** (`TP2.pkt`)
+
+##  Utilisation
+
+
+1. Cloner le dépôt :
+   ```bash
+   git clone https://github.com/mkama0/TP.git
+Ouvrir les fichiers .pkt dans Cisco Packet Tracer.
+
+Charger les fichiers .config sur les équipements si nécessaire.
+
+
